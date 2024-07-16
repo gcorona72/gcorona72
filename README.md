@@ -18,19 +18,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"> 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">sSobre Mi</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"> de Madrid <br><br>- 🔭 Trabajando como Analista de datos<br>- 📚 Actualmente Aprendiendo Quasar <br>- ⚡ En mi tiempo libre juego al APEX LEGENDS</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Lenguajes y Herramientas</h3>
 
 ###
 
